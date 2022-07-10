@@ -3,8 +3,8 @@ Time is of the essence. Seize the day
 
 ### Tech Stack
 
-*Language & FrameWork : Python, Java, SpringBoot
-*DataBase : MySql
+* Language & FrameWork : Python, Java, SpringBoot
+* DataBase : MySql
 
 
 
