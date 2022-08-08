@@ -4,14 +4,14 @@
 
 <br>
 
-## 😊 Introduction
+## 😊  Introduction
 
 📢 안녕하세요. 성장하는 개발자 권지수입니다.   
 현재 백엔드에 관심을 가지고 공부 중입니다!
 
 <br>
 
-## Once, I've Used
+## ✏  Once, I've Used
 
 - Language & Framework
   - SpringBoot/Java
@@ -32,7 +32,7 @@
 
 <br>
 
-## GitHub Stats
+##  GitHub Stats
 
 [![Jisoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisoooit&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
