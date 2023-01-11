@@ -12,25 +12,32 @@
 <br>
 
 ## ✏  Once, I've Used
-
-- Language & Framework
-  - SpringBoot/Java
-  - ReactNative
-  - HTML/CSS/JS
-  - Python
-  
-- DevOps
-  - AWS - EC2, RDS, S3
-  - MySQL
-
-- Collaboration & Tools
-  - Slack, Notion
-  - IntelliJ, DataGrip, VS Code
-  - Figma
-  - Git, Github
-
-
 <br>
+
+### Front-End
+
+- HTML, CSS
+- React
+
+
+### Back-End
+
+- 서버 : Spring, SpringBoot, jsp & servlet
+
+- DB : MySQL, MariaDB, H2
+
+- AWS : EC2, RDS, S3
+
+- Persistence Framework : JDBCTeamplate, JPA, MyBatis
+
+
+### Collaboration & Tools
+
+- 협업 : Slack, Notion, Figma
+
+- 버전관리 : Git, Github
+<br>
+
 
 ##  GitHub Stats
 
